@@ -5,3 +5,4 @@
 # Xcode-related
 **/dgph
 **/xcuserdata/
+.fvm/flutter_sdk
